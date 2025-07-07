@@ -1,8 +1,8 @@
 {
-  "name": "react-07-phonebook-25",
+  "name": "react-08-phonebook-25",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://padalka-sergey.github.io/react-07-phonebook-25/",
+  "homepage": "https://padalka-sergey.github.io/react-08-phonebook-25/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "@testing-library/jest-dom": "^5.16.3",
@@ -13,6 +13,7 @@
     "react-dom": "^18.1.0",
     "react-loader-spinner": "^6.1.6",
     "react-redux": "^9.2.0",
+    "react-router-dom": "^7.6.3",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.17",
     "web-vitals": "^2.1.3"
